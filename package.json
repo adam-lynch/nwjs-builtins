@@ -9,7 +9,6 @@
     "mocha": "^2.2.5"
   },
   "scripts": {
-    "prepublish": "npm test",
     "test": "mocha"
   },
   "repository": {
