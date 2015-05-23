@@ -1,0 +1,28 @@
+{
+  "name": "nwjs-builtins",
+  "version": "1.0.0",
+  "description": "A list of NW.js built-ins. E.g. nw.gui, etc.",
+  "main": "builtins.json",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http:s//github.com/adam-lynch/nwjs-builtins"
+  },
+  "keywords": [
+    "NW.js",
+    "builtins",
+    "builtin",
+    "modules",
+    "list"
+  ],
+  "author": "Adam Lynch <contact@adamlynch.com>",
+  "license": "MIT"
+}
