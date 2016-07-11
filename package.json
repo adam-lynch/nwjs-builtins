@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http:s//github.com/adam-lynch/nwjs-builtins"
+    "url": "https://github.com/adam-lynch/nwjs-builtins"
   },
   "keywords": [
     "NW.js",
